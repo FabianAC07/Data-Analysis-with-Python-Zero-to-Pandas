@@ -1,4 +1,4 @@
-# Deep Learning with PyThorch: Zero to GANs
+# Data Analysis with Python: Zero to Pandas
 
 This repository contains the Jupiter notebooks of the course [Data Analysis with Python: Zero to Pandas](https://jovian.ml/learn/data-analysis-with-python-zero-to-pandas), 
 which is avilable at [Jovian.ml](https://www.jovian.ml/) and at freeCodeCamp.org [YouTube](https://www.youtube.com/watch?v=EsDFiZPljYo&t=289s&pbjreload=101) channel.
