@@ -9,3 +9,7 @@ The course instructor was [Aakash](https://github.com/aakashns) who is the co-fo
 
 "Data Analysis with Python: Zero to Pandas" is a practical, beginner-friendly and coding-focused introduction to data analysis covering the basics of Python, Numpy, Pandas, data visualization and exploratory data analysis. 
 
+
+## Certification
+
+By the end of the 60 hours course a [certificate](https://jovian.ml/certificate/MFQTCMRUG4) was issued by [Jovian.ml](https://www.jovian.ml/) and [freeCodeCamp.org](https://www.freecodecamp.org/).
